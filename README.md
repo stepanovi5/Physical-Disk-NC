@@ -12,3 +12,6 @@ Login:
 Password:
 
     Qwedcxzas123321
+
+    
+UPD: DiSK IS UNAVAILABLE NOW
